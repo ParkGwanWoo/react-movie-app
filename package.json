@@ -17,5 +17,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://parkgwanwoo.github.io/react-movie_app"
+  "homepage": "http://parkgwanwoo.github.io/react-movie-app"
 }
